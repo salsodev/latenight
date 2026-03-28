@@ -1,12 +1,22 @@
-# 🌙 LateNight
+<p align="center">
+  <img src="./assets/latenight-logo.png" alt="LateNight logo" title="latenight logo" />
+</p>
 
-> **Code longer. Strain less.**
+<h1 align="center">🌙 LateNight</h1>
 
-A dark theme designed for long coding sessions with minimal eye strain and smooth visual balance.
+<p align="center">
+  <strong>Code longer. Strain less.</strong>
+</p>
+
+<p align="center">
+  A dark theme designed for long coding sessions with minimal eye strain and smooth visual balance.
+</p>
 
 ---
 
-![LateNight VSCode theme](./assets/latenight-theme-preview.png "latenight vscode theme preview")
+<p align="center">
+  <img src="./assets/latenight-theme-preview.png" alt="LateNight VSCode theme" title="latenight vscode theme preview" />
+</p>
 
 # 🚀 How to Use This Theme in VS Code (Step-by-Step)
 
@@ -36,6 +46,7 @@ A dark theme designed for long coding sessions with minimal eye strain and smoot
 3. Select: **LateNight**
 
 ✅ Your editor will instantly switch to the theme
+✅ The icon theme used in the preview image was material icons
 
 ---
 
