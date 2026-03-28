@@ -6,7 +6,7 @@ A dark theme designed for long coding sessions with minimal eye strain and smoot
 
 ---
 
-![LateNight VSCode theme](./assets/latenight theme preview.png "latenight theme preview")
+![LateNight VSCode theme](./assets/latenight-theme-preview.png "latenight vscode theme preview")
 
 # 🚀 How to Use This Theme in VS Code (Step-by-Step)
 
