@@ -3,7 +3,21 @@
   "displayName": "Latenight",
   "description": "A sleek, late-night dark theme with soft green tones, built for focus, clarity, and comfortable coding",
   "version": "0.0.1",
-  "publisher": "Salaudeen Sodiq",
+  "publisher": "SalaudeenSodiq",
+   "icon": "assets/latenight-logo.png",
+  "author": {
+    "name": "Salaudeen Sodiq",
+    "email": "salsodiou@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/salsodev/latenight"
+  },
+  "bugs": {
+    "url": "https://github.com/salsodev/latenight/issues",
+    "email": "salsodiou@gmail.com"
+  },
+  "homepage": "https://github.com/salsodev/latenight/blob/main/README.md",
   "engines": {
     "vscode": "^1.110.0"
   },

@@ -2,8 +2,6 @@
   <img src="./assets/latenight-logo.png" alt="LateNight logo" title="latenight logo" />
 </p>
 
-<h1 align="center">🌙 LateNight</h1>
-
 <p align="center">
   <strong>Code longer. Strain less.</strong>
 </p>
