@@ -1,0 +1,22 @@
+{
+  "name": "latenight",
+  "displayName": "Latenight",
+  "description": "A sleek, late-night dark theme with soft green tones, built for focus, clarity, and comfortable coding",
+  "version": "0.0.1",
+  "publisher": "Salaudeen Sodiq",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Latenight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Latenight-color-theme.json"
+      }
+    ]
+  }
+}
